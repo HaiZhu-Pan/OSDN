@@ -2,7 +2,7 @@
 
 [Haizhu Pan](), [Moqi Liu](), [Haimiao Ge](), [Liguo Wang]()
 
-The code in this toolbox implements the ["One-shot dense network with polarized attention for hyperspectral image classification"](https://www.mdpi.com/2072-4292/16/21/4029).
+The code in this toolbox implements the ["One-shot dense network with polarized attention for hyperspectral image classification"](https://doi.org/10.3390/rs14092265).
 More specifically, it is detailed as follow.
 
 ![Figure 6](https://github.com/user-attachments/assets/235b26b4-a5d2-4862-a017-2862a1bd2070)
